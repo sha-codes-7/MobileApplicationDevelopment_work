@@ -1,0 +1,18 @@
+<resources>
+    <string name="student_name">Name: Esha Khalid</string>
+    <string name="student_reg">Reg No: FA23-BCE-030</string>
+    <string name="device_name_value">Device Name: %1$s</string>
+    <string name="battery_value">Battery: %1$d%%</string>
+    <string name="btn_edit">Edit Device</string>
+    <string name="btn_docs">Open Documentation</string>
+    <string name="app_name">DeviceManager</string>
+    <string name="lbl_device_name">Device Name:</string>
+    <string name="lbl_battery">Battery Percentage:</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
+
+
+
+
+
